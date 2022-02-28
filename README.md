@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyberologywithjay
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Networking, Windows, Linux, Scripting languages, NIST, Splunk and AWS. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on red or blue teaming projects
 - 📫 How to reach me Janet.Kristinaa@gmail.com
 
 <!---
